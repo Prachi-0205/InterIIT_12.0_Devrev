@@ -1,5 +1,5 @@
 # DevRev High Prep Problem Statement - Inter IIT Tech Meet 12.0
-## IIT Indore (Team 22)<br>
+## IIT Indore <br>
 
  Won Silver Medal 🥈 2nd Position
 
