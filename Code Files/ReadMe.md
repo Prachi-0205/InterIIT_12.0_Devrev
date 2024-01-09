@@ -1,7 +1,5 @@
 # DevRev - AI Agent 007 - Inter IIT Tech Meet 12.0
 
-## Team 22
-
 GPT-4-turbo and GPT-3.5-turbo access is required.
 
 Run the script on a linux system preferably.
